@@ -5,8 +5,10 @@
 
 # Custom filter for datasets in this work
 LEGO_brick_images_v1
-output
-py/base.model
+
+py/test/output
+py/test/base.model
+py/test/model
 
 # User-specific files
 *.rsuser
