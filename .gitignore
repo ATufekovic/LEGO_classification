@@ -18,6 +18,10 @@ py/example1/output
 py/example1/base.model
 py/example1/model
 
+py/test_vgg16/output
+py/test_vgg16/base.model
+py/test_vgg16/model
+
 # User-specific files
 *.rsuser
 *.suo
