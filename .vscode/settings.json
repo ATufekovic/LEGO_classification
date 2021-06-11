@@ -1,3 +1,4 @@
 {
-    "jupyter.jupyterServerType": "local"
+    "jupyter.jupyterServerType": "local",
+    "python.pythonPath": "C:\\Users\\Anto\\anaconda3\\envs\\lego_jupyter_fuckup\\python.exe"
 }
