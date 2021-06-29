@@ -22,6 +22,10 @@ py/test_vgg16/output
 py/test_vgg16/base.model
 py/test_vgg16/model
 
+py/test_resnet50/output
+py/test_resnet50/base.model
+py/test_resnet50/model
+
 # User-specific files
 *.rsuser
 *.suo
