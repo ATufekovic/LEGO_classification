@@ -67,7 +67,7 @@ for vertical_pos in range(vertical_steps):
         material.diffuse_color = colors[i]
         
         #set render path as to not overwrite, then render it
-        scene.render.filepath = image_path + "3037_" + str(vertical_pos) + "_" + str(horizontal_pos)
+        scene.render.filepath = image_path + "32140_" + str(vertical_pos) + "_" + str(horizontal_pos)
         bpy.ops.render.render(write_still = True)
 
 print("My Script Finished: %.4f sec" % (time.time() - time_start))

@@ -5,6 +5,7 @@
 
 # Custom filter for datasets in this work
 LEGO_brick_images_v1
+LEGO_brick_custom
 
 py/test/output
 py/test/base.model
