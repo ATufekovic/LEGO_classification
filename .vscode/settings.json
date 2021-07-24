@@ -1,4 +1,6 @@
 {
     "jupyter.jupyterServerType": "local",
-    "python.pythonPath": "C:\\Users\\Anto\\anaconda3\\envs\\lego_jupyter_fuckup\\python.exe"
+    "python.pythonPath": "C:\\Users\\Anto\\anaconda3\\envs\\LEGO\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
 }
